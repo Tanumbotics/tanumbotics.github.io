@@ -6,14 +6,15 @@ Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Progra
 
 The Tanumbotics team is composed of the following members from Xavier University - Ateneo de Cagayan
 
-| Team Member | Course and Year | E-mail Address | Role |
-| :---------: | :-------------: | :------------: | :--: |
+| Photo | Team Member | Course and Year | E-mail Address | Role |
+| :---: | :---------: | :-------------: | :------------: | :--: |
+| ![Gerardo](assets/images/default.png)
 | Engr. Gerardo Doroja | Dean, XU College of Computer Studies | gdoroja@xu.edu.ph | Coach |
-| Jessa Balagtas | BS Computer Science 4 | assej010393@gmail.com | Documentation, Testing |
-| Joseph Philip Gaston | BS Mechanical Engineering 3 | josephpfsg@gmail.com | Engineering, Testing |
-| John Neijzen | BS Computer Science 3 | john.neijzen@live.com | Back-end Development, Testing |
-| Fidel Ivan Racines | BS Computer Science 3 | fidelivancdo@gmail.com | Back-end Development, Testing |
-| Marc Anthony Reyes | BS Computer Science 3 | hello@marcreyes.ph | Back-end Development, Front-end Development |
+| ![Jessa](assets/images/jessa.png) | Jessa Balagtas | BS Computer Science 4 | assej010393@gmail.com | Documentation, Testing |
+| ![Joseph](assets/images/joseph.png) | Joseph Philip Gaston | BS Mechanical Engineering 3 | josephpfsg@gmail.com | Engineering, Testing |
+| ![John](assets/images/john.png) | John Neijzen | BS Computer Science 3 | john.neijzen@live.com | Back-end Development, Testing |
+| ![Fidel](assets/images/fidel.png) | Fidel Ivan Racines | BS Computer Science 3 | fidelivancdo@gmail.com | Back-end Development, Testing |
+| ![Marc](assets/images/marc.png) | Marc Anthony Reyes | BS Computer Science 3 | hello@marcreyes.ph | Back-end Development, Front-end Development |
 
 ### Support or Contact
 
