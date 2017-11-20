@@ -21,4 +21,4 @@ You need our help or just something you need to ask about us, feel free to e-mai
 
 ##### &copy; 2017-2018 Tanumbotics. All Rights Reserved
 
-<style>.site_footer { display: none; }</style>
+<style>.site-footer { display: none; }</style>
