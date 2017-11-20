@@ -6,7 +6,7 @@ Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Progra
 
 The Tanumbotics team is composed of the following members from Xavier University - Ateneo de Cagayan
 
-| Team Member | Course and Year | E-mail address | Role |
+| Team Member | Course and Year | E-mail Address | Role |
 | :---------: | :-------------: | :------------: | :--: |
 | Engr. Gerardo Doroja | Dean, XU College of Computer Studies | gdoroja@xu.edu.ph | Coach |
 | Jessa Balagtas | BS Computer Science 4 | | Documentation, Testing |
