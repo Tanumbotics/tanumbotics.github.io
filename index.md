@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About Tanumbotics
 
-You can use the [editor on GitHub](https://github.com/Tanumbotics/tanumbotics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Program (FEP) sponsored team of Computer Science and Engineering students dedicated to develop an application to help small-scale farmers in the Philippines. Our project is UmaBOT, an crop monitoring system using drones, web, and Android technologies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
 
-### Markdown
+The Tanumbotics team is composed of the following members from Xavier University - Ateneo de Cagayan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanumbotics/tanumbotics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Team Member | Course and Year | E-mail address |
+| :----------:| :--------------:| :-------------:|
+| Joseph Philip Gaston | BS Mechanical Engineering 3 | josephpfsg@gmail.com |
+| John Neijzen | BS Computer Science 3 | john.neijzen@live.com |
+| Fidel Ivan Racines | BS Computer Science 3 | hello@marcreyes.ph |
+| Jessa Balagtas | BS Computer Science 4 | |
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You need our help or just something you need to ask about us, feel free to e-mail the above-mentioned and we will be glad to respond to your request.
+
+##### &copy; 2017-2018 Tanumbotics. All Rights Reserved | Powered by [GitHub pages](https://pages.github.com)
