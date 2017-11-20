@@ -20,3 +20,5 @@ The Tanumbotics team is composed of the following members from Xavier University
 You need our help or just something you need to ask about us, feel free to e-mail the above-mentioned and we will be glad to respond to your request.
 
 ##### &copy; 2017-2018 Tanumbotics. All Rights Reserved
+
+<style>.site_footer { display: none; }</style>
