@@ -9,7 +9,7 @@ The Tanumbotics team is composed of the following members from Xavier University
 | Team Member | Course and Year | E-mail Address | Role |
 | :---------: | :-------------: | :------------: | :--: |
 | Engr. Gerardo Doroja | Dean, XU College of Computer Studies | gdoroja@xu.edu.ph | Coach |
-| Jessa Balagtas | BS Computer Science 4 | | Documentation, Testing |
+| Jessa Balagtas | BS Computer Science 4 | assej010393@gmail.com | Documentation, Testing |
 | Joseph Philip Gaston | BS Mechanical Engineering 3 | josephpfsg@gmail.com | Engineering, Testing |
 | John Neijzen | BS Computer Science 3 | john.neijzen@live.com | Back-end Development, Testing |
 | Fidel Ivan Racines | BS Computer Science 3 | fidelivancdo@gmail.com | Back-end Development, Testing |
