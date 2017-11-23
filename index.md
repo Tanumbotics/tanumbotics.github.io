@@ -1,4 +1,48 @@
-<style>.site-footer { display: none; } body { font-family: "Helvetica", sans-serif !important; } </style>
+<style>
+@font-face {
+  font-family: 'Larsseit';
+  src: url('assets/fonts/Larsseit-Light.eot');
+  src: url('assets/fonts/Larsseit-Light.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Larsseit-Light.woff') format('woff'),
+    url('assets/fonts/Larsseit-Light.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+/*Larsseit Regular*/
+@font-face {
+  font-family: 'Larsseit';
+  src: url('assets/fonts/Larsseit.eot');
+  src: url('assets/fonts/Larsseit.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Larsseit.woff') format('woff'),
+    url('assets/fonts/Larsseit.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Larsseit Medium*/
+@font-face {
+  font-family: 'Larsseit';
+  src: url('assets/fonts/Larsseit-Medium.eot');
+  src: url('assets/fonts/Larsseit-Medium.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Larsseit-Medium.woff') format('woff'),
+    url('assets/fonts/Larsseit-Medium.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Larsseit Bold */
+@font-face {
+  font-family: 'Larsseit';
+  src: url('assets/fonts/Larsseit-Bold.eot');
+  src: url('assets/fonts/Larsseit-Bold.eot?#iefix') format('embedded-opentype'),
+    url('assets/fonts/Larsseit-Bold.woff') format('woff'),
+    url('assets/fonts/Larsseit-Bold.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+.site-footer { display: none; } body { font-family: "Larsseit", sans-serif !important; } 
+</style>
 
 ## About Tanumbotics
 
