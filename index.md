@@ -1,3 +1,4 @@
+<meta property="og:image" content="https://tanumbotics.github.io/assets/images/og-image.png">
 <style>
 @import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700');
 .site-footer { display: none; } body { font-family: "Rubik", sans-serif !important; } 
