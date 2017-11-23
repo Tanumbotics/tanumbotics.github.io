@@ -2,6 +2,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Rubik:400,500,700');
 .site-footer { display: none; } body { font-family: "Rubik", sans-serif !important; } 
+a { color: rgb(21, 153, 87) !important; }
 </style>
 
 ## **About Tanumbotics**
