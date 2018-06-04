@@ -1,8 +1,8 @@
-## About Tanumbotics
+# About Tanumbotics
 
 Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Program (FEP) sponsored team of Computer Science and Engineering students dedicated to develop an application to help small-scale farmers in the Philippines. Our project is UmaBOT, an crop monitoring system using drones, web, and Android technologies. 
 
-### Team Members
+## Team Members
 
 The Tanumbotics team is composed of the following members from Xavier University - Ateneo de Cagayan
 
@@ -15,8 +15,8 @@ The Tanumbotics team is composed of the following members from Xavier University
 | ![Fidel](assets/images/fidel.png)     | Fidel Ivan Racines   | BS Computer Science 3                | fidelivancdo@gmail.com | Back-end Development, Testing               |
 | ![Marc](assets/images/marc.png)       | Marc Anthony Reyes   | BS Computer Science 3                | hello@marcreyes.ph     | Back-end Development, Front-end Development |
 
-### Support or Contact
+## Support or Contact
 
 If you need our help or just something you need to ask about us, feel free to e-mail the above-mentioned and we will be glad to respond to your request.
 
-##### &copy; 2017-2018 Tanumbotics. All Rights Reserved
+&copy; 2017-2018 Tanumbotics. All Rights Reserved
